@@ -1,6 +1,6 @@
 /*
  * Ferie.cpp
- *      Author: charlie
+ *      Author: Ulrich Geraud
  */
 
 #include <iostream>
