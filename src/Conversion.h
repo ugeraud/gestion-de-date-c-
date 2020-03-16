@@ -1,6 +1,6 @@
 /*
  * Conversion.h
- *      Author: charlie
+ *      Author: Ulrich Geraud
  */
 #include "Date.h"
 #ifndef CONVERSION_H_
