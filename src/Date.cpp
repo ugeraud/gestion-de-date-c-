@@ -1,6 +1,6 @@
 /*
  * Date.cpp
- *      Author: charlie
+ *      Author: Ulrich Geraud
  */
 
 
