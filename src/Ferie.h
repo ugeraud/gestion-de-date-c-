@@ -1,6 +1,6 @@
 /*
  * Ferie.h
- *      Author: charlie
+ *      Author: Ulrich Geraud
  */
 
 #ifndef FERIE_H_
