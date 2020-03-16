@@ -1,6 +1,6 @@
 /*
  * Date.h
- *      Author: charlie
+ *      Author: Ulrich Geraud
  */
 
 #ifndef CLASSES_DATE_H_
